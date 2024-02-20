@@ -1,4 +1,4 @@
-@include('header')
+@include('header1')
 <h1>index page</h1>
 <h2>user Detail</h2>
 <table class="table">
